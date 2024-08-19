@@ -7,7 +7,7 @@
 ## Hi there, I am [Jawad Shah](https://jawad114.github.io/ "👨‍💻 Check out my portfolio ") [<img target="_blank" src="https://img.icons8.com/fluency/20/instagram-check-mark.png"/>](https://twitter.com/private_boii)
 
 - 🌱 Learning Mode ON 😜
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **ML**
 - :relaxed: I'm a 🚀 developer
 - 👯 I’m looking to collaborate on **GitHub**
 - ⚡ Fun fact 🎂 Expression and authentic self
