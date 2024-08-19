@@ -49,7 +49,7 @@
 ### :zap: GitHub Stats
 
 <div>
-<a href="https://github.com/pattjoshi">
+<a href="https://github.com/jawad114">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad114&show_icons=true&theme=tokyonight" />
 </a>
 
