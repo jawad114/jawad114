@@ -57,7 +57,7 @@
 
 <div align="center">
   
-![jawad114's github stats](https://github-readme-stats.vercel.app/api?username=pattjoshi&show_icons=true&theme=tokyonight)
+![jawad114's github stats]("https://github-readme-stats.vercel.app/api?username=jawad114&show_icons=true theme=tokyonight")
 </div>
  
 <br>
