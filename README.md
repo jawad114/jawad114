@@ -1,72 +1,76 @@
-<img align="left" width="80" height="80" alt="Dani Akash" src="https://media2.giphy.com/media/79uMvMuByazSk1cZUX/giphy.gif?cid=ecf05e473ocvmlvn2df8dfx3uh3hrkom2vtc1e4udmv8z640&rid=giphy.gif&ct=s"/>     
- 
-## Welcome to  Github Portfolio 
-<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="399" height="278" /> -->
- <img align="right" alt="GIF" width="367" height="257" src="https://github.com/chiragsamal/chiragsamal/blob/master/Images/portfolio.gif"  />
+<!-- Header -->
+<div align="center">
+  <img src="https://media2.giphy.com/media/79uMvMuByazSk1cZUX/giphy.gif?cid=ecf05e473ocvmlvn2df8dfx3uh3hrkom2vtc1e4udmv8z640&rid=giphy.gif&ct=s" alt="wave" width="72" height="72" />
+  <h1>Hi, I'm <a href="https://jawad114.github.io/" title="Portfolio">Jawad Shah</a> 👋</h1>
+  <p><b>Full-Stack Developer</b> — building robust web apps with delightful UX.</p>
+  <p>
+    <a href="mailto:col.jawadshahak47@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail"></a>
+    <a href="https://www.linkedin.com/in/jawad-shah/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+    <a href="https://twitter.com/private_boii"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter"></a>
+    <a href="https://jawad114.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=flat-square&logo=vercel"></a>
+  </p>
+</div>
 
-## Hi there, I am [Jawad Shah](https://jawad114.github.io/ "👨‍💻 Check out my portfolio ") [<img target="_blank" src="https://img.icons8.com/fluency/20/instagram-check-mark.png"/>](https://twitter.com/private_boii)
+---
 
-- 🌱 Learning Mode ON 😜
-- 🌱 I’m currently learning **ML**
-- :relaxed: I'm a 🚀 developer
-- 👯 I’m looking to collaborate on **GitHub**
-- ⚡ Fun fact 🎂 Expression and authentic self
-- I ❤️ to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+### About Me
+- 🚀 I love shipping clean, well-tested features.
+- 🌱 Currently diving into **ML** & scalable architectures.
+- 🤝 Open to collaboration on impactful OSS or product work.
+- 💬 Ask me about React, Node.js, TypeScript, and cloud dev.
 
-## :mailbox: How to reach me :
+### Tech I Use
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+</p>
 
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:col.jawadshahak47@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/jawad-shah/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>](https://www.facebook.com/gcjawadshah/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/gc_java_shah/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/twitter-circled.png"/>](https://twitter.com/private_boii/)
+---
 
-### Tools and Languages :
+### 📊 GitHub Overview
+<div align="center">
+  <!-- Stats (includes private + all commits) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jawad114&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    alt="Jawad's GitHub Stats" height="165" />
+  <!-- Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=jawad114&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" height="165" />
+</div>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<!-- Top languages note: based on repo size, not activity -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad114&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    alt="Top Languages" height="165" />
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /></code>
-<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="react-redux" width="25" height="25" />
+---
 
-<br>
+### Featured Projects
+<p align="center">
+  <!-- Replace repo names below with your real repositories -->
+  <a href="https://github.com/jawad114/REPO_ONE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jawad114&repo=REPO_ONE&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/jawad114/REPO_TWO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jawad114&repo=REPO_TWO&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-### :zap: GitHub Stats
-
-<div>
-<a href="https://github.com/jawad114">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad114&show_icons=true&theme=tokyonight" />
-</a>
-
-<br>
+---
 
 <div align="center">
-  
-![jawad114's github stats](https://github-readme-stats.vercel.app/api?username=jawad114&show_icons=true&theme=tokyonight)
+  <sub>Like what you see? Star some repos 💙</sub>
 </div>
- 
-<br>
-</br>
-</div>
-
-<div align="center">
- <br>
- Show some ❤️ by starring some of the repositories! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-</div>
-
-<img height="100%" alt="Bottom" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/bottom_header.svg"/>
