@@ -22,32 +22,30 @@
 ---
 
 ### 🛠️ Tech I Use
-<p>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
+### 🛠️ Tech Stack
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
+  <a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
+  <a href="https://pulumi.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pulumi.svg" height="48" alt="Pulumi" /></a>
+  <a href="https://aws.amazon.com/cdk/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" height="48" alt="AWS CDK" /></a>
 </p>
+
 
 ---
 
-### 📊 GitHub Overview
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jawad114/jawad114/main/github-metrics.svg" alt="Jawad's GitHub Metrics" width="625em" />
-</p>
-
+### 📊 GitHub Overview <div align="center"> <!-- Stats (includes private + all commits) --> <img src="https://github-readme-stats.vercel.app/api?username=jawad114&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Jawad's GitHub Stats" height="165" /> <!-- Streak --> <img src="https://streak-stats.demolab.com?user=jawad114&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" /> </div> <!-- Top languages note: based on repo size, not activity --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad114&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" /> </p>
 
 ---
 
