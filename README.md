@@ -20,8 +20,6 @@
 - 💬 Ask me about **React, Node.js, TypeScript, and cloud dev**.  
 
 ---
-
-### 🛠️ Tech I Use
 ### 🛠️ Tech Stack
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
@@ -39,7 +37,6 @@
   <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
   <a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
   <a href="https://pulumi.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pulumi.svg" height="48" alt="Pulumi" /></a>
-  <a href="https://aws.amazon.com/cdk/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" height="48" alt="AWS CDK" /></a>
 </p>
 
 
