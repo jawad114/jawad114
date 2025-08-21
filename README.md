@@ -46,31 +46,36 @@
 
 <div align="center">
 
-<!-- Stats (includes private + all commits) -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=jawad114&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-  alt="Jawad's GitHub Stats" 
-  height="165" 
-/>
-
-<!-- Streak -->
-<img 
-  src="https://streak-stats.demolab.com?user=jawad114&theme=tokyonight&hide_border=true" 
-  alt="GitHub Streak" 
-  height="165" 
-/>
+<!-- Row 1: Stats + Streak -->
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=jawad114&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+        alt="Jawad's GitHub Stats" 
+        height="165" 
+      />
+    </td>
+    <td>
+      <img 
+        src="https://streak-stats.demolab.com?user=jawad114&theme=tokyonight&hide_border=true" 
+        alt="GitHub Streak" 
+        height="165" 
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad114&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+        alt="Top Languages" 
+        height="165" 
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<!-- Top languages (full width) -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad114&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    alt="Top Languages" 
-    width="800" 
-  />
-</p>
-
 
 ---
 
