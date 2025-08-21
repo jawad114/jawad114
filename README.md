@@ -45,8 +45,9 @@
 
 ### 📊 GitHub Overview
 <p align="center">
-  <img src="./github-metrics.svg" alt="Jawad's GitHub Metrics" width="625em" />
+  <img src="https://raw.githubusercontent.com/jawad114/jawad114/main/github-metrics.svg" alt="Jawad's GitHub Metrics" width="625em" />
 </p>
+
 
 ---
 
