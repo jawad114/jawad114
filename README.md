@@ -1,15 +1,22 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://media2.giphy.com/media/79uMvMuByazSk1cZUX/giphy.gif?cid=ecf05e473ocvmlvn2df8dfx3uh3hrkom2vtc1e4udmv8z640&rid=giphy.gif&ct=s" alt="wave" width="72" height="72" />
-  <h1>Hi, I'm <a href="https://jawad114.github.io/" title="Portfolio">Jawad Shah</a> 👋</h1>
-  <p><b>Full-Stack Developer</b> — building robust web apps with delightful UX.</p>
-  <p>
-    <a href="mailto:col.jawadshahak47@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail"></a>
-    <a href="https://www.linkedin.com/in/jawad-shah/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-    <a href="https://twitter.com/private_boii"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter"></a>
-    <a href="https://jawad114.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=flat-square&logo=vercel"></a>
-  </p>
-</div>
+<p align="center">
+	<samp>
+		👋 <br />
+		Hi, I'm <br />
+		(Jawad) Shah!<br />
+		Full-stack Developer <br />
+		:email: email: col.jawadshahak47@gmail.com <br />
+		:briefcase: portfolio: https://jawad114.github.io <br />
+		👯 I’m looking to collaborate on WEB Projects <br />
+		🤔 I’m looking for help with scalable cloud apps. <br />
+		⚡ fun fact: If not coding, you’ll find me exploring history books! <br />
+		💬 convo starter: Peshawar 🏙️, Cloud ☁️, Game of Thrones 👑. <br />
+	</samp>
+	<img width="625em" src="./github-metrics.svg" />
+	<a href="https://techforpalestine.org/learn-more" target="_blank">
+		<img width="625em" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg"/>
+	</a><br />
+</p>
+<br>
 
 ---
 
@@ -18,6 +25,8 @@
 - 🌱 Currently diving into **ML** & scalable architectures.
 - 🤝 Open to collaboration on impactful OSS or product work.
 - 💬 Ask me about React, Node.js, TypeScript, and cloud dev.
+
+---
 
 ### Tech I Use
 <p>
@@ -37,31 +46,10 @@
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
-
 </p>
 
 ---
 
-### 📊 GitHub Overview
-<div align="center">
-  <!-- Stats (includes private + all commits) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jawad114&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    alt="Jawad's GitHub Stats" height="165" />
-  <!-- Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=jawad114&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" height="165" />
-</div>
-
-<!-- Top languages note: based on repo size, not activity -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad114&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    alt="Top Languages" height="165" />
-</p>
-
----
 ### ​ Featured Projects
 
 | Project | Link |
@@ -70,7 +58,6 @@
 | **MyZambeel Portal** | [portal.myzambeel.com](https://portal.myzambeel.com/login) |
 | **Moo.la** | [moo.la](https://moo.la/) |
 | **Diligentsia UK** | [diligentsia.co.uk](https://diligentsia.co.uk/) |
-
 
 ---
 
