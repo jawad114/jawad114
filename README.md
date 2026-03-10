@@ -51,8 +51,7 @@
 ```
 > About Jawad Shah                                                    🔍
 ───────────────────────────────────────────────────────────────────────
-  ✦  Full-Stack Dev · 3 yrs building scalable web apps & APIs
-  ✦  Currently @ Productbox — React, NestJS, AWS  
+  ✦  Full-Stack Dev · building scalable web apps & APIs
   ✦  Expertise: React · Node.js · NestJS · TypeScript · AWS · DevOps
   ✦  Open to OSS collaboration & high-impact product work
 ───────────────────────────────────────────────────────────────────────
@@ -153,8 +152,8 @@
 | 🔴 | **Moo.la** | Built modular React + NestJS fintech app → 30% API perf boost, 40% fewer redundant calls | [moo.la](https://moo.la/) |
 | 🟡 | **Diligentsia UK** | NestJS + PostgreSQL backend with JWT/RBAC → 100% protected routes, 45% fewer network requests | [diligentsia.co.uk](https://diligentsia.co.uk/) |
 | 🟢 | **MyZambeel** | Next.js e-commerce + Node/MongoDB backend → JWT auth, AWS deployment, 24/7 uptime | [portal.myzambeel.com](https://portal.myzambeel.com/login) |
-| 🔵 | **MZB Engineering** | Built from scratch with React + Zustand → ~50% faster feature delivery via modular architecture | — |
-| 🔴 | **Success.ai** | AI-powered outreach platform — scalable full-stack build with modern React & cloud infra | — |
+| 🔵 | **MZB Engineering** | Built from scratch with React + Zustand → ~50% faster feature delivery via modular architecture |https://mzbinc.com|
+| 🔴 | **Success.ai** | AI-powered outreach platform — scalable full-stack build with modern React & cloud infra | https://success.ai |
 
 </div>
 
