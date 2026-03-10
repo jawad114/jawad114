@@ -5,8 +5,8 @@
 <!-- Animated Google Colors Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=120&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
 
-<!-- Profile Avatar with Google Colors Ring -->
-<img src="https://media2.giphy.com/media/79uMvMuByazSk1cZUX/giphy.gif?cid=ecf05e473ocvmlvn2df8dfx3uh3hrkom2vtc1e4udmv8z640&rid=giphy.gif&ct=s" width="80" height="80" style="border-radius:50%;" />
+<!-- Profile Avatar -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
 
 <br/>
 
@@ -17,12 +17,12 @@
   <span style="color:#EA4335">S</span><span style="color:#FBBC05">h</span><span style="color:#34A853">a</span><span style="color:#4285F4">h</span>
 </h1>
 
-<!-- GDE Badge Style -->
+<!-- Badges -->
 <a href="https://jawad114.github.io/">
-  <img src="https://img.shields.io/badge/Google%20Developer%20Expert-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDE" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Engineer-34A853?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Full Stack" />
 </a>
 <a href="https://jawad114.github.io/">
-  <img src="https://img.shields.io/badge/Full--Stack%20Engineer-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/3%2B%20Years%20Experience-4285F4?style=for-the-badge&logo=react&logoColor=white" alt="Experience" />
 </a>
 
 <br/><br/>
@@ -51,10 +51,10 @@
 ```
 > About Jawad Shah                                                    🔍
 ───────────────────────────────────────────────────────────────────────
-  ✦  Shipping clean, well-tested features at scale
-  ✦  Currently exploring ML & distributed architectures  
+  ✦  Full-Stack Dev · 3 yrs building scalable web apps & APIs
+  ✦  Currently @ Productbox — React, NestJS, AWS  
+  ✦  Expertise: React · Node.js · NestJS · TypeScript · AWS · DevOps
   ✦  Open to OSS collaboration & high-impact product work
-  ✦  Ask me → React · Node.js · TypeScript · Cloud Infrastructure
 ───────────────────────────────────────────────────────────────────────
 ```
 
@@ -64,7 +64,7 @@
 
 <!-- Google Product Color-coded Tech Icons -->
 
-**🔵 Frontend** &nbsp;—&nbsp; *(Google Blue · #4285F4)*
+**🔵 Frontend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
@@ -74,22 +74,25 @@
   <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" />
 </p>
 
-**🔴 Backend** &nbsp;—&nbsp; *(Google Red · #EA4335)*
+**🔴 Backend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" title="Express" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" title="GoLang" />
 </p>
 
-**🟡 Data** &nbsp;—&nbsp; *(Google Yellow · #FBBC05)*
+**🟡 Data**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
 </p>
 
-**🟢 Cloud & DevOps** &nbsp;—&nbsp; *(Google Green · #34A853)*
+**🟢 Cloud & DevOps**
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&nbsp;
@@ -144,12 +147,14 @@
 
 <div align="center">
 
-| &nbsp; | Project | Description | Link |
-|:---:|---------|-------------|------|
-| 🔵 | **CitizenPath** | Immigration & legal guidance platform | [citizenpath.com](https://citizenpath.com/) |
-| 🔴 | **MyZambeel Portal** | Enterprise portal & management system | [portal.myzambeel.com](https://portal.myzambeel.com/login) |
-| 🟡 | **Moo.la** | Fintech & payment solution | [moo.la](https://moo.la/) |
-| 🟢 | **Diligentsia UK** | Business intelligence platform | [diligentsia.co.uk](https://diligentsia.co.uk/) |
+| &nbsp; | Project | Highlights | Link |
+|:---:|---------|------------|------|
+| 🔵 | **CitizenPath** | Refactored UI into reusable components → ~30% less code duplication, ~50% fewer UI bugs | [citizenpath.com](https://citizenpath.com/) |
+| 🔴 | **Moo.la** | Built modular React + NestJS fintech app → 30% API perf boost, 40% fewer redundant calls | [moo.la](https://moo.la/) |
+| 🟡 | **Diligentsia UK** | NestJS + PostgreSQL backend with JWT/RBAC → 100% protected routes, 45% fewer network requests | [diligentsia.co.uk](https://diligentsia.co.uk/) |
+| 🟢 | **MyZambeel** | Next.js e-commerce + Node/MongoDB backend → JWT auth, AWS deployment, 24/7 uptime | [portal.myzambeel.com](https://portal.myzambeel.com/login) |
+| 🔵 | **MZB Engineering** | Built from scratch with React + Zustand → ~50% faster feature delivery via modular architecture | — |
+| 🔴 | **Success.ai** | AI-powered outreach platform — scalable full-stack build with modern React & cloud infra | — |
 
 </div>
 
