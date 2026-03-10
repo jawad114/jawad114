@@ -1,75 +1,131 @@
-<!-- Header -->
+<!-- Google Developer Profile README -->
+
 <div align="center">
-  <img src="https://media2.giphy.com/media/79uMvMuByazSk1cZUX/giphy.gif?cid=ecf05e473ocvmlvn2df8dfx3uh3hrkom2vtc1e4udmv8z640&rid=giphy.gif&ct=s" alt="wave" width="72" height="72" />
-  <h1>Hi, I'm <a href="https://jawad114.github.io/" title="Portfolio">Jawad Shah</a> 👋</h1>
-  <p><b>Full-Stack Developer</b> — building robust web apps with delightful UX.</p>
-  <p>
-    <a href="mailto:col.jawadshahak47@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail"></a>
-    <a href="https://www.linkedin.com/in/jawad-shah/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-    <a href="https://twitter.com/private_boii"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter"></a>
-    <a href="https://jawad114.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=flat-square&logo=vercel"></a>
-  </p>
+
+<!-- Animated Google Colors Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&height=120&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
+
+<!-- Profile Avatar with Google Colors Ring -->
+<img src="https://media2.giphy.com/media/79uMvMuByazSk1cZUX/giphy.gif?cid=ecf05e473ocvmlvn2df8dfx3uh3hrkom2vtc1e4udmv8z640&rid=giphy.gif&ct=s" width="80" height="80" style="border-radius:50%;" />
+
+<br/>
+
+<!-- Google-style Name -->
+<h1>
+  <span style="color:#4285F4">J</span><span style="color:#EA4335">a</span><span style="color:#FBBC05">w</span><span style="color:#4285F4">a</span><span style="color:#34A853">d</span>
+  &nbsp;
+  <span style="color:#EA4335">S</span><span style="color:#FBBC05">h</span><span style="color:#34A853">a</span><span style="color:#4285F4">h</span>
+</h1>
+
+<!-- GDE Badge Style -->
+<a href="https://jawad114.github.io/">
+  <img src="https://img.shields.io/badge/Google%20Developer%20Expert-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDE" />
+</a>
+<a href="https://jawad114.github.io/">
+  <img src="https://img.shields.io/badge/Full--Stack%20Engineer-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Full Stack" />
+</a>
+
+<br/><br/>
+
+<!-- Social Badges — Google Material Style -->
+<a href="mailto:col.jawadshahak47@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/jawad-shah/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="https://twitter.com/private_boii">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+</a>&nbsp;
+<a href="https://jawad114.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-### 🚀 About Me
-- 🚀 I love shipping clean, well-tested features.  
-- 🌱 Currently diving into **ML** & scalable architectures.  
-- 🤝 Open to collaboration on impactful OSS or product work.  
-- 💬 Ask me about **React, Node.js, TypeScript, and cloud dev**.  
+<!-- Google Search Bar Style About Section -->
+## <img src="https://img.shields.io/badge/search-about%20me-white?style=flat-square&logo=google&logoColor=4285F4" height="28" />
+
+```
+> About Jawad Shah                                                    🔍
+───────────────────────────────────────────────────────────────────────
+  ✦  Shipping clean, well-tested features at scale
+  ✦  Currently exploring ML & distributed architectures  
+  ✦  Open to OSS collaboration & high-impact product work
+  ✦  Ask me → React · Node.js · TypeScript · Cloud Infrastructure
+───────────────────────────────────────────────────────────────────────
+```
 
 ---
-### 🛠️ Tech Stack
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
-  <a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
-  <a href="https://pulumi.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pulumi.svg" height="48" alt="Pulumi" /></a>
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/emoji.svg" width="24" /> Tech Stack
+
+<!-- Google Product Color-coded Tech Icons -->
+
+**🔵 Frontend** &nbsp;—&nbsp; *(Google Blue · #4285F4)*
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" />
 </p>
 
+**🔴 Backend** &nbsp;—&nbsp; *(Google Red · #EA4335)*
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" title="Express" />
+</p>
+
+**🟡 Data** &nbsp;—&nbsp; *(Google Yellow · #FBBC05)*
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+</p>
+
+**🟢 Cloud & DevOps** &nbsp;—&nbsp; *(Google Green · #34A853)*
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" />&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pulumi.svg" height="48" title="Pulumi" />
+</p>
 
 ---
 
-### 📊 GitHub Overview
+## <img src="https://img.shields.io/badge/Google-Analytics-white?style=flat-square&logo=google-analytics&logoColor=EA4335" height="26" /> GitHub Overview
 
 <div align="center">
 
 <table>
   <tr>
-    <!-- Left column: Stats -->
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=jawad114&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+        src="https://github-readme-stats.vercel.app/api?username=jawad114&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=4285F4&icon_color=34A853&text_color=ffffff&ring_color=EA4335" 
         alt="Jawad's GitHub Stats" 
         height="165" 
       />
     </td>
-    <!-- Right column: Top Languages spans 2 rows -->
     <td rowspan="2">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad114&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad114&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=4285F4&text_color=ffffff" 
         alt="Top Languages" 
         height="330" 
       />
     </td>
   </tr>
   <tr>
-    <!-- Left column: Contributions -->
     <td>
       <img 
-        src="https://streak-stats.demolab.com?user=jawad114&theme=tokyonight&hide_border=true" 
+        src="https://streak-stats.demolab.com?user=jawad114&theme=tokyonight&hide_border=true&background=0d1117&ring=4285F4&fire=EA4335&currStreakLabel=FBBC05&sideLabels=34A853" 
         alt="GitHub Streak" 
         height="165" 
       />
@@ -77,21 +133,39 @@
   </tr>
 </table>
 
+<!-- Google-style Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jawad114&bg_color=0d1117&color=4285F4&line=34A853&point=EA4335&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
+
 </div>
 
-
 ---
 
-### 🌟 Featured Projects
-| Project | Link |
-|---------|------|
-| **CitizenPath** | [citizenpath.com](https://citizenpath.com/) |
-| **MyZambeel Portal** | [portal.myzambeel.com](https://portal.myzambeel.com/login) |
-| **Moo.la** | [moo.la](https://moo.la/) |
-| **Diligentsia UK** | [diligentsia.co.uk](https://diligentsia.co.uk/) |
-
----
+## <img src="https://img.shields.io/badge/Google-Play-white?style=flat-square&logo=google-play&logoColor=34A853" height="26" /> Featured Projects
 
 <div align="center">
-  <sub>Like what you see? ⭐ Star some repos 💙</sub>
+
+| &nbsp; | Project | Description | Link |
+|:---:|---------|-------------|------|
+| 🔵 | **CitizenPath** | Immigration & legal guidance platform | [citizenpath.com](https://citizenpath.com/) |
+| 🔴 | **MyZambeel Portal** | Enterprise portal & management system | [portal.myzambeel.com](https://portal.myzambeel.com/login) |
+| 🟡 | **Moo.la** | Fintech & payment solution | [moo.la](https://moo.la/) |
+| 🟢 | **Diligentsia UK** | Business intelligence platform | [diligentsia.co.uk](https://diligentsia.co.uk/) |
+
+</div>
+
+---
+
+<!-- Google I/O Style Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34A853,25:FBBC05,50:EA4335,75:4285F4,100:34A853&height=80&section=footer&text=&fontSize=0" width="100%"/>
+
+<sub>
+  <img src="https://img.shields.io/badge/Built%20with-❤️%20%26%20Google%20Tech-4285F4?style=flat-square" />
+  &nbsp;·&nbsp;
+  <img src="https://img.shields.io/badge/Powered%20by-Curiosity-EA4335?style=flat-square" />
+  &nbsp;·&nbsp;
+  <img src="https://img.shields.io/badge/⭐%20Star%20some%20repos-34A853?style=flat-square" />
+</sub>
+
 </div>
